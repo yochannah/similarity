@@ -985,2288 +985,2288 @@
     ], 
     "links": [
         {
-            "source": 0, 
-            "target": 0, 
+            "source": "FBgn0086680", 
+            "target": "FBgn0086680", 
             "weight": 0.0
         }, 
         {
-            "source": 0, 
-            "target": 65, 
+            "source": "FBgn0086680", 
+            "target": "FBgn0005592", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 0, 
-            "target": 90, 
+            "source": "FBgn0086680", 
+            "target": "FBgn0005613", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 0, 
-            "target": 210, 
+            "source": "FBgn0086680", 
+            "target": "FBgn0003975", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 0, 
-            "target": 60, 
+            "source": "FBgn0086680", 
+            "target": "FBgn0264089", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 0, 
-            "target": 61, 
+            "source": "FBgn0086680", 
+            "target": "FBgn0016917", 
             "weight": 0.0043668122270742364
         }, 
         {
-            "source": 1, 
-            "target": 156, 
+            "source": "FBgn0267678", 
+            "target": "FBgn0000422", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 2, 
-            "target": 88, 
+            "source": "FBgn0014019", 
+            "target": "FBgn0004102", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 3, 
-            "target": 4, 
+            "source": "FBgn0001147", 
+            "target": "FBgn0001148", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 4, 
-            "target": 4, 
+            "source": "FBgn0001148", 
+            "target": "FBgn0001148", 
             "weight": 0.0
         }, 
         {
-            "source": 4, 
-            "target": 59, 
+            "source": "FBgn0001148", 
+            "target": "FBgn0000606", 
             "weight": 0.02663755458515284
         }, 
         {
-            "source": 4, 
-            "target": 81, 
+            "source": "FBgn0001148", 
+            "target": "FBgn0001077", 
             "weight": 0.019650655021834062
         }, 
         {
-            "source": 4, 
-            "target": 87, 
+            "source": "FBgn0001148", 
+            "target": "FBgn0003145", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 5, 
-            "target": 165, 
+            "source": "FBgn0005664", 
+            "target": "FBgn0266145", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 6, 
-            "target": 206, 
+            "source": "FBgn0000576", 
+            "target": "FBgn0000015", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 6, 
-            "target": 193, 
+            "source": "FBgn0000576", 
+            "target": "FBgn0011706", 
             "weight": 0.006259097525473071
         }, 
         {
-            "source": 6, 
-            "target": 6, 
+            "source": "FBgn0000576", 
+            "target": "FBgn0000576", 
             "weight": 0.0
         }, 
         {
-            "source": 6, 
-            "target": 178, 
+            "source": "FBgn0000576", 
+            "target": "FBgn0003720", 
             "weight": 0.005385735080058224
         }, 
         {
-            "source": 6, 
-            "target": 229, 
+            "source": "FBgn0000576", 
+            "target": "FBgn0000166", 
             "weight": 0.0462882096069869
         }, 
         {
-            "source": 7, 
-            "target": 184, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0261434", 
             "weight": 0.0413391557496361
         }, 
         {
-            "source": 7, 
-            "target": 7, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0000577", 
             "weight": 0.0
         }, 
         {
-            "source": 7, 
-            "target": 123, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0004053", 
             "weight": 0.12669092673459484
         }, 
         {
-            "source": 7, 
-            "target": 193, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0011706", 
             "weight": 0.03740902474526929
         }, 
         {
-            "source": 7, 
-            "target": 59, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0000606", 
             "weight": 0.3926596596028911
         }, 
         {
-            "source": 7, 
-            "target": 117, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0001180", 
             "weight": 0.02440915707291253
         }, 
         {
-            "source": 7, 
-            "target": 198, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0000490", 
             "weight": 0.014757934932607426
         }, 
         {
-            "source": 7, 
-            "target": 200, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0004859", 
             "weight": 1.0
         }, 
         {
-            "source": 7, 
-            "target": 204, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0000157", 
             "weight": 0.020938518056421995
         }, 
         {
-            "source": 7, 
-            "target": 68, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0038654", 
             "weight": 0.0413391557496361
         }, 
         {
-            "source": 7, 
-            "target": 71, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0040524", 
             "weight": 0.0413391557496361
         }, 
         {
-            "source": 7, 
-            "target": 208, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0003944", 
             "weight": 0.01222707423580786
         }, 
         {
-            "source": 7, 
-            "target": 139, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0085489", 
             "weight": 0.0413391557496361
         }, 
         {
-            "source": 7, 
-            "target": 77, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0001078", 
             "weight": 0.08646288209606987
         }, 
         {
-            "source": 7, 
-            "target": 81, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0001077", 
             "weight": 0.04890829694323144
         }, 
         {
-            "source": 7, 
-            "target": 177, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0043364", 
             "weight": 0.0413391557496361
         }, 
         {
-            "source": 7, 
-            "target": 91, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0267707", 
             "weight": 0.0413391557496361
         }, 
         {
-            "source": 7, 
-            "target": 157, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0004860", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 7, 
-            "target": 158, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0004861", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 7, 
-            "target": 44, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0020378", 
             "weight": 0.0413391557496361
         }, 
         {
-            "source": 7, 
-            "target": 171, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0001325", 
             "weight": 0.07189096202196639
         }, 
         {
-            "source": 7, 
-            "target": 48, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0260995", 
             "weight": 0.0413391557496361
         }, 
         {
-            "source": 7, 
-            "target": 110, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0004567", 
             "weight": 0.0462882096069869
         }, 
         {
-            "source": 7, 
-            "target": 111, 
+            "source": "FBgn0000577", 
+            "target": "FBgn0020312", 
             "weight": 0.0413391557496361
         }, 
         {
-            "source": 8, 
-            "target": 172, 
+            "source": "FBgn0025776", 
+            "target": "FBgn0000022", 
             "weight": 0.01572052401746725
         }, 
         {
-            "source": 8, 
-            "target": 40, 
+            "source": "FBgn0025776", 
+            "target": "FBgn0261930", 
             "weight": 0.008733624454148473
         }, 
         {
-            "source": 8, 
-            "target": 8, 
+            "source": "FBgn0025776", 
+            "target": "FBgn0025776", 
             "weight": 0.0
         }, 
         {
-            "source": 9, 
-            "target": 244, 
+            "source": "FBgn0025680", 
+            "target": "FBgn0026394", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 10, 
-            "target": 94, 
+            "source": "FBgn0010109", 
+            "target": "FBgn0264270", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 11, 
-            "target": 188, 
+            "source": "FBgn0032209", 
+            "target": "FBgn0003507", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 11, 
-            "target": 194, 
+            "source": "FBgn0032209", 
+            "target": "FBgn0003117", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 11, 
-            "target": 116, 
+            "source": "FBgn0032209", 
+            "target": "FBgn0004110", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 11, 
-            "target": 43, 
+            "source": "FBgn0032209", 
+            "target": "FBgn0003896", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 12, 
-            "target": 49, 
+            "source": "FBgn0036352", 
+            "target": "FBgn0004870", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 12, 
-            "target": 209, 
+            "source": "FBgn0036352", 
+            "target": "FBgn0004045", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 13, 
-            "target": 103, 
+            "source": "FBgn0000179", 
+            "target": "FBgn0024250", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 14, 
-            "target": 14, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0015664", 
             "weight": 0.0
         }, 
         {
-            "source": 14, 
-            "target": 29, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0000261", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 14, 
-            "target": 143, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0025111", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 14, 
-            "target": 46, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0001942", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 14, 
-            "target": 234, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0259113", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 14, 
-            "target": 191, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0000251", 
             "weight": 0.05240174672489083
         }, 
         {
-            "source": 14, 
-            "target": 37, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0003079", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 14, 
-            "target": 95, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0000180", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 14, 
-            "target": 237, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0034726", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 14, 
-            "target": 128, 
+            "source": "FBgn0015664", 
+            "target": "FBgn0003687", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 15, 
-            "target": 25, 
+            "source": "FBgn0026403", 
+            "target": "FBgn0029504", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 15, 
-            "target": 41, 
+            "source": "FBgn0026403", 
+            "target": "FBgn0015396", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 16, 
-            "target": 195, 
+            "source": "FBgn0020414", 
+            "target": "FBgn0001320", 
             "weight": 0.05152838427947598
         }, 
         {
-            "source": 17, 
-            "target": 76, 
+            "source": "FBgn0001224", 
+            "target": "FBgn0283451", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 18, 
-            "target": 134, 
+            "source": "FBgn0000439", 
+            "target": "FBgn0086655", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 18, 
-            "target": 18, 
+            "source": "FBgn0000439", 
+            "target": "FBgn0000439", 
             "weight": 0.0
         }, 
         {
-            "source": 18, 
-            "target": 82, 
+            "source": "FBgn0000439", 
+            "target": "FBgn0261788", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 18, 
-            "target": 197, 
+            "source": "FBgn0000439", 
+            "target": "FBgn0266256", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 19, 
-            "target": 76, 
+            "source": "FBgn0026404", 
+            "target": "FBgn0283451", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 20, 
-            "target": 166, 
+            "source": "FBgn0261699", 
+            "target": "FBgn0003891", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 21, 
-            "target": 84, 
+            "source": "FBgn0264000", 
+            "target": "FBgn0000639", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 21, 
-            "target": 209, 
+            "source": "FBgn0264000", 
+            "target": "FBgn0004045", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 22, 
-            "target": 209, 
+            "source": "FBgn0267257", 
+            "target": "FBgn0004045", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 23, 
-            "target": 105, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0005561", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 23, 
-            "target": 90, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0005613", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 23, 
-            "target": 23, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0004837", 
             "weight": 0.0
         }, 
         {
-            "source": 23, 
-            "target": 173, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0004197", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 23, 
-            "target": 119, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0002734", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 23, 
-            "target": 120, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0002735", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 23, 
-            "target": 210, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0003975", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 23, 
-            "target": 127, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0002631", 
             "weight": 0.008733624454148473
         }, 
         {
-            "source": 23, 
-            "target": 167, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0002973", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 23, 
-            "target": 113, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0039411", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 23, 
-            "target": 150, 
+            "source": "FBgn0004837", 
+            "target": "FBgn0002629", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 24, 
-            "target": 154, 
+            "source": "FBgn0002933", 
+            "target": "FBgn0035948", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 24, 
-            "target": 235, 
+            "source": "FBgn0002933", 
+            "target": "FBgn0000659", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 24, 
-            "target": 97, 
+            "source": "FBgn0002933", 
+            "target": "FBgn0015338", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 24, 
-            "target": 192, 
+            "source": "FBgn0002933", 
+            "target": "FBgn0052039", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 24, 
-            "target": 238, 
+            "source": "FBgn0002933", 
+            "target": "FBgn0028507", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 24, 
-            "target": 226, 
+            "source": "FBgn0002933", 
+            "target": "FBgn0261963", 
             "weight": 0.045414847161572056
         }, 
         {
-            "source": 24, 
-            "target": 35, 
+            "source": "FBgn0002933", 
+            "target": "FBgn0038482", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 24, 
-            "target": 241, 
+            "source": "FBgn0002933", 
+            "target": "FBgn0031476", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 24, 
-            "target": 161, 
+            "source": "FBgn0002933", 
+            "target": "FBgn0000546", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 26, 
-            "target": 28, 
+            "source": "FBgn0005558", 
+            "target": "FBgn0003390", 
             "weight": 0.010480349344978166
         }, 
         {
-            "source": 26, 
-            "target": 58, 
+            "source": "FBgn0005558", 
+            "target": "FBgn0028662", 
             "weight": 0.010480349344978166
         }, 
         {
-            "source": 26, 
-            "target": 190, 
+            "source": "FBgn0005558", 
+            "target": "FBgn0010433", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 26, 
-            "target": 198, 
+            "source": "FBgn0005558", 
+            "target": "FBgn0000490", 
             "weight": 0.007621127053441465
         }, 
         {
-            "source": 26, 
-            "target": 80, 
+            "source": "FBgn0005558", 
+            "target": "FBgn0025360", 
             "weight": 0.010480349344978166
         }, 
         {
-            "source": 26, 
-            "target": 201, 
+            "source": "FBgn0005558", 
+            "target": "FBgn0003460", 
             "weight": 0.00611353711790393
         }, 
         {
-            "source": 27, 
-            "target": 69, 
+            "source": "FBgn0002561", 
+            "target": "FBgn0000591", 
             "weight": 0.0794759825327511
         }, 
         {
-            "source": 27, 
-            "target": 127, 
+            "source": "FBgn0002561", 
+            "target": "FBgn0002631", 
             "weight": 0.0034934497816593887
         }, 
         {
-            "source": 27, 
-            "target": 135, 
+            "source": "FBgn0002561", 
+            "target": "FBgn0000137", 
             "weight": 0.028820960698689956
         }, 
         {
-            "source": 30, 
-            "target": 114, 
+            "source": "FBgn0020493", 
+            "target": "FBgn0040076", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 30, 
-            "target": 56, 
+            "source": "FBgn0020493", 
+            "target": "FBgn0031435", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 30, 
-            "target": 103, 
+            "source": "FBgn0020493", 
+            "target": "FBgn0024250", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 31, 
-            "target": 116, 
+            "source": "FBgn0028675", 
+            "target": "FBgn0004110", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 32, 
-            "target": 201, 
+            "source": "FBgn0037616", 
+            "target": "FBgn0003460", 
             "weight": 0.011353711790393014
         }, 
         {
-            "source": 33, 
-            "target": 92, 
+            "source": "FBgn0003002", 
+            "target": "FBgn0003430", 
             "weight": 0.05240174672489083
         }, 
         {
-            "source": 34, 
-            "target": 55, 
+            "source": "FBgn0032040", 
+            "target": "FBgn0004170", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 34, 
-            "target": 190, 
+            "source": "FBgn0032040", 
+            "target": "FBgn0010433", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 34, 
-            "target": 126, 
+            "source": "FBgn0032040", 
+            "target": "FBgn0003326", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 34, 
-            "target": 135, 
+            "source": "FBgn0032040", 
+            "target": "FBgn0000137", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 34, 
-            "target": 62, 
+            "source": "FBgn0032040", 
+            "target": "FBgn0000216", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 35, 
-            "target": 130, 
+            "source": "FBgn0038482", 
+            "target": "FBgn0010294", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 35, 
-            "target": 152, 
+            "source": "FBgn0038482", 
+            "target": "FBgn0014076", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 35, 
-            "target": 124, 
+            "source": "FBgn0038482", 
+            "target": "FBgn0001226", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 36, 
-            "target": 236, 
+            "source": "FBgn0015222", 
+            "target": "FBgn0035035", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 38, 
-            "target": 88, 
+            "source": "FBgn0003249", 
+            "target": "FBgn0004102", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 39, 
-            "target": 59, 
+            "source": "FBgn0038125", 
+            "target": "FBgn0000606", 
             "weight": 0.05152838427947598
         }, 
         {
-            "source": 40, 
-            "target": 129, 
+            "source": "FBgn0261930", 
+            "target": "FBgn0265598", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 40, 
-            "target": 40, 
+            "source": "FBgn0261930", 
+            "target": "FBgn0261930", 
             "weight": 0.0
         }, 
         {
-            "source": 42, 
-            "target": 122, 
+            "source": "FBgn0003996", 
+            "target": "FBgn0004050", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 43, 
-            "target": 172, 
+            "source": "FBgn0003896", 
+            "target": "FBgn0000022", 
             "weight": 0.007860262008733625
         }, 
         {
-            "source": 44, 
-            "target": 208, 
+            "source": "FBgn0020378", 
+            "target": "FBgn0003944", 
             "weight": 0.010189228529839885
         }, 
         {
-            "source": 45, 
-            "target": 179, 
+            "source": "FBgn0016694", 
+            "target": "FBgn0003721", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 45, 
-            "target": 101, 
+            "source": "FBgn0016694", 
+            "target": "FBgn0003149", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 47, 
-            "target": 219, 
+            "source": "FBgn0036591", 
+            "target": "FBgn0003068", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 48, 
-            "target": 208, 
+            "source": "FBgn0260995", 
+            "target": "FBgn0003944", 
             "weight": 0.010189228529839885
         }, 
         {
-            "source": 49, 
-            "target": 206, 
+            "source": "FBgn0004870", 
+            "target": "FBgn0000015", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 49, 
-            "target": 49, 
+            "source": "FBgn0004870", 
+            "target": "FBgn0004870", 
             "weight": 0.0
         }, 
         {
-            "source": 49, 
-            "target": 181, 
+            "source": "FBgn0004870", 
+            "target": "FBgn0025525", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 50, 
-            "target": 59, 
+            "source": "FBgn0039731", 
+            "target": "FBgn0000606", 
             "weight": 0.03531295487627366
         }, 
         {
-            "source": 50, 
-            "target": 123, 
+            "source": "FBgn0039731", 
+            "target": "FBgn0004053", 
             "weight": 0.01970887918486172
         }, 
         {
-            "source": 51, 
-            "target": 172, 
+            "source": "FBgn0002633", 
+            "target": "FBgn0000022", 
             "weight": 0.05502183406113537
         }, 
         {
-            "source": 52, 
-            "target": 115, 
+            "source": "FBgn0002576", 
+            "target": "FBgn0004618", 
             "weight": 0.005240174672489083
         }, 
         {
-            "source": 52, 
-            "target": 188, 
+            "source": "FBgn0002576", 
+            "target": "FBgn0003507", 
             "weight": 0.0034934497816593887
         }, 
         {
-            "source": 52, 
-            "target": 105, 
+            "source": "FBgn0002576", 
+            "target": "FBgn0005561", 
             "weight": 0.02445414847161572
         }, 
         {
-            "source": 52, 
-            "target": 164, 
+            "source": "FBgn0002576", 
+            "target": "FBgn0004595", 
             "weight": 0.013100436681222707
         }, 
         {
-            "source": 52, 
-            "target": 144, 
+            "source": "FBgn0002576", 
+            "target": "FBgn0283437", 
             "weight": 0.01222707423580786
         }, 
         {
-            "source": 52, 
-            "target": 146, 
+            "source": "FBgn0002576", 
+            "target": "FBgn0003963", 
             "weight": 0.01222707423580786
         }, 
         {
-            "source": 52, 
-            "target": 52, 
+            "source": "FBgn0002576", 
+            "target": "FBgn0002576", 
             "weight": 0.0
         }, 
         {
-            "source": 52, 
-            "target": 201, 
+            "source": "FBgn0002576", 
+            "target": "FBgn0003460", 
             "weight": 0.0611353711790393
         }, 
         {
-            "source": 53, 
-            "target": 201, 
+            "source": "FBgn0041581", 
+            "target": "FBgn0003460", 
             "weight": 0.011353711790393014
         }, 
         {
-            "source": 54, 
-            "target": 187, 
+            "source": "FBgn0002573", 
+            "target": "FBgn0004635", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 55, 
-            "target": 55, 
+            "source": "FBgn0004170", 
+            "target": "FBgn0004170", 
             "weight": 0.0
         }, 
         {
-            "source": 55, 
-            "target": 69, 
+            "source": "FBgn0004170", 
+            "target": "FBgn0000591", 
             "weight": 0.08122270742358079
         }, 
         {
-            "source": 55, 
-            "target": 108, 
+            "source": "FBgn0004170", 
+            "target": "FBgn0015904", 
             "weight": 0.010480349344978166
         }, 
         {
-            "source": 55, 
-            "target": 126, 
+            "source": "FBgn0004170", 
+            "target": "FBgn0003326", 
             "weight": 0.003930131004366812
         }, 
         {
-            "source": 55, 
-            "target": 62, 
+            "source": "FBgn0004170", 
+            "target": "FBgn0000216", 
             "weight": 0.003930131004366812
         }, 
         {
-            "source": 55, 
-            "target": 135, 
+            "source": "FBgn0004170", 
+            "target": "FBgn0000137", 
             "weight": 0.029694323144104806
         }, 
         {
-            "source": 56, 
-            "target": 204, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0000157", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 56, 
-            "target": 116, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0004110", 
             "weight": 0.011644832605531296
         }, 
         {
-            "source": 56, 
-            "target": 57, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0012037", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 56, 
-            "target": 102, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0004862", 
             "weight": 0.0011644832605531294
         }, 
         {
-            "source": 56, 
-            "target": 123, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0004053", 
             "weight": 0.02183406113537118
         }, 
         {
-            "source": 56, 
-            "target": 109, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0001168", 
             "weight": 0.008733624454148473
         }, 
         {
-            "source": 56, 
-            "target": 239, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0004863", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 56, 
-            "target": 198, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 56, 
-            "target": 210, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0003975", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 56, 
-            "target": 227, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0011656", 
             "weight": 0.005531295487627365
         }, 
         {
-            "source": 56, 
-            "target": 103, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0024250", 
             "weight": 0.0043668122270742364
         }, 
         {
-            "source": 56, 
-            "target": 225, 
+            "source": "FBgn0031435", 
+            "target": "FBgn0261648", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 57, 
-            "target": 114, 
+            "source": "FBgn0012037", 
+            "target": "FBgn0040076", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 57, 
-            "target": 123, 
+            "source": "FBgn0012037", 
+            "target": "FBgn0004053", 
             "weight": 0.0043668122270742364
         }, 
         {
-            "source": 59, 
-            "target": 182, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0000411", 
             "weight": 0.044323144104803494
         }, 
         {
-            "source": 59, 
-            "target": 116, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0004110", 
             "weight": 0.0537117903930131
         }, 
         {
-            "source": 59, 
-            "target": 186, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0011278", 
             "weight": 0.1423580786026201
         }, 
         {
-            "source": 59, 
-            "target": 171, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0001325", 
             "weight": 0.05007278020378456
         }, 
         {
-            "source": 59, 
-            "target": 61, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0016917", 
             "weight": 0.05152838427947598
         }, 
         {
-            "source": 59, 
-            "target": 125, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0003448", 
             "weight": 0.06768558951965066
         }, 
         {
-            "source": 59, 
-            "target": 117, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0001180", 
             "weight": 0.02299854439592431
         }, 
         {
-            "source": 59, 
-            "target": 197, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0266256", 
             "weight": 0.0462882096069869
         }, 
         {
-            "source": 59, 
-            "target": 207, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0000014", 
             "weight": 0.11035495314971301
         }, 
         {
-            "source": 59, 
-            "target": 208, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0003944", 
             "weight": 0.1075893054058993
         }, 
         {
-            "source": 59, 
-            "target": 213, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0038058", 
             "weight": 0.05131004366812227
         }, 
         {
-            "source": 59, 
-            "target": 229, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0000166", 
             "weight": 0.3073468307529443
         }, 
         {
-            "source": 59, 
-            "target": 217, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0001150", 
             "weight": 0.02183406113537118
         }, 
         {
-            "source": 59, 
-            "target": 86, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0265168", 
             "weight": 0.02547307132459971
         }, 
         {
-            "source": 59, 
-            "target": 87, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0003145", 
             "weight": 0.05065502183406113
         }, 
         {
-            "source": 59, 
-            "target": 114, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0040076", 
             "weight": 0.02445414847161572
         }, 
         {
-            "source": 59, 
-            "target": 59, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0000606", 
             "weight": 0.0
         }, 
         {
-            "source": 59, 
-            "target": 192, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0052039", 
             "weight": 0.05065502183406113
         }, 
         {
-            "source": 59, 
-            "target": 196, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0003870", 
             "weight": 0.0236098981077147
         }, 
         {
-            "source": 59, 
-            "target": 195, 
+            "source": "FBgn0000606", 
+            "target": "FBgn0001320", 
             "weight": 0.11644832605531297
         }, 
         {
-            "source": 60, 
-            "target": 182, 
+            "source": "FBgn0264089", 
+            "target": "FBgn0000411", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 62, 
-            "target": 172, 
+            "source": "FBgn0000216", 
+            "target": "FBgn0000022", 
             "weight": 0.0537117903930131
         }, 
         {
-            "source": 63, 
-            "target": 207, 
+            "source": "FBgn0260642", 
+            "target": "FBgn0000014", 
             "weight": 0.03540271712760796
         }, 
         {
-            "source": 63, 
-            "target": 208, 
+            "source": "FBgn0260642", 
+            "target": "FBgn0003944", 
             "weight": 0.10264677341096558
         }, 
         {
-            "source": 63, 
-            "target": 73, 
+            "source": "FBgn0260642", 
+            "target": "FBgn0003866", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 63, 
-            "target": 93, 
+            "source": "FBgn0260642", 
+            "target": "FBgn0267978", 
             "weight": 0.1056768558951965
         }, 
         {
-            "source": 63, 
-            "target": 63, 
+            "source": "FBgn0260642", 
+            "target": "FBgn0260642", 
             "weight": 0.0
         }, 
         {
-            "source": 63, 
-            "target": 162, 
+            "source": "FBgn0260642", 
+            "target": "FBgn0086039", 
             "weight": 0.0043668122270742364
         }, 
         {
-            "source": 63, 
-            "target": 81, 
+            "source": "FBgn0260642", 
+            "target": "FBgn0001077", 
             "weight": 0.03580786026200874
         }, 
         {
-            "source": 63, 
-            "target": 153, 
+            "source": "FBgn0260642", 
+            "target": "FBgn0003513", 
             "weight": 0.021892285298398827
         }, 
         {
-            "source": 64, 
-            "target": 109, 
+            "source": "FBgn0003300", 
+            "target": "FBgn0001168", 
             "weight": 0.0462882096069869
         }, 
         {
-            "source": 64, 
-            "target": 229, 
+            "source": "FBgn0003300", 
+            "target": "FBgn0000166", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 65, 
-            "target": 203, 
+            "source": "FBgn0005592", 
+            "target": "FBgn0262139", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 65, 
-            "target": 221, 
+            "source": "FBgn0005592", 
+            "target": "FBgn0086690", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 65, 
-            "target": 212, 
+            "source": "FBgn0005592", 
+            "target": "FBgn0005638", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 66, 
-            "target": 145, 
+            "source": "FBgn0010786", 
+            "target": "FBgn0015524", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 67, 
-            "target": 198, 
+            "source": "FBgn0011766", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 68, 
-            "target": 208, 
+            "source": "FBgn0038654", 
+            "target": "FBgn0003944", 
             "weight": 0.010189228529839885
         }, 
         {
-            "source": 69, 
-            "target": 198, 
+            "source": "FBgn0000591", 
+            "target": "FBgn0000490", 
             "weight": 0.008078602620087336
         }, 
         {
-            "source": 69, 
-            "target": 172, 
+            "source": "FBgn0000591", 
+            "target": "FBgn0000022", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 70, 
-            "target": 235, 
+            "source": "FBgn0039779", 
+            "target": "FBgn0000659", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 71, 
-            "target": 208, 
+            "source": "FBgn0040524", 
+            "target": "FBgn0003944", 
             "weight": 0.010189228529839885
         }, 
         {
-            "source": 72, 
-            "target": 220, 
+            "source": "FBgn0001269", 
+            "target": "FBgn0004629", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 73, 
-            "target": 207, 
+            "source": "FBgn0003866", 
+            "target": "FBgn0000014", 
             "weight": 0.010735080058224163
         }, 
         {
-            "source": 73, 
-            "target": 208, 
+            "source": "FBgn0003866", 
+            "target": "FBgn0003944", 
             "weight": 0.03089519650655022
         }, 
         {
-            "source": 73, 
-            "target": 81, 
+            "source": "FBgn0003866", 
+            "target": "FBgn0001077", 
             "weight": 0.0098981077147016
         }, 
         {
-            "source": 74, 
-            "target": 74, 
+            "source": "FBgn0000567", 
+            "target": "FBgn0000567", 
             "weight": 0.0
         }, 
         {
-            "source": 74, 
-            "target": 163, 
+            "source": "FBgn0000567", 
+            "target": "FBgn0004594", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 74, 
-            "target": 122, 
+            "source": "FBgn0000567", 
+            "target": "FBgn0004050", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 74, 
-            "target": 185, 
+            "source": "FBgn0000567", 
+            "target": "FBgn0013263", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 75, 
-            "target": 116, 
+            "source": "FBgn0003900", 
+            "target": "FBgn0004110", 
             "weight": 0.029839883551673944
         }, 
         {
-            "source": 75, 
-            "target": 187, 
+            "source": "FBgn0003900", 
+            "target": "FBgn0004635", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 75, 
-            "target": 208, 
+            "source": "FBgn0003900", 
+            "target": "FBgn0003944", 
             "weight": 0.0141193595342067
         }, 
         {
-            "source": 75, 
-            "target": 125, 
+            "source": "FBgn0003900", 
+            "target": "FBgn0003448", 
             "weight": 0.014410480349344978
         }, 
         {
-            "source": 75, 
-            "target": 118, 
+            "source": "FBgn0003900", 
+            "target": "FBgn0004666", 
             "weight": 0.0013100436681222707
         }, 
         {
-            "source": 75, 
-            "target": 227, 
+            "source": "FBgn0003900", 
+            "target": "FBgn0011656", 
             "weight": 0.01098981077147016
         }, 
         {
-            "source": 75, 
-            "target": 148, 
+            "source": "FBgn0003900", 
+            "target": "FBgn0260632", 
             "weight": 0.019141193595342068
         }, 
         {
-            "source": 76, 
-            "target": 156, 
+            "source": "FBgn0283451", 
+            "target": "FBgn0000422", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 76, 
-            "target": 163, 
+            "source": "FBgn0283451", 
+            "target": "FBgn0004594", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 77, 
-            "target": 131, 
+            "source": "FBgn0001078", 
+            "target": "FBgn0000552", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 77, 
-            "target": 81, 
+            "source": "FBgn0001078", 
+            "target": "FBgn0001077", 
             "weight": 0.0165938864628821
         }, 
         {
-            "source": 77, 
-            "target": 107, 
+            "source": "FBgn0001078", 
+            "target": "FBgn0051693", 
             "weight": 0.05327510917030568
         }, 
         {
-            "source": 78, 
-            "target": 103, 
+            "source": "FBgn0003719", 
+            "target": "FBgn0024250", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 78, 
-            "target": 148, 
+            "source": "FBgn0003719", 
+            "target": "FBgn0260632", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 79, 
-            "target": 116, 
+            "source": "FBgn0003651", 
+            "target": "FBgn0004110", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 81, 
-            "target": 196, 
+            "source": "FBgn0001077", 
+            "target": "FBgn0003870", 
             "weight": 0.012318569349137037
         }, 
         {
-            "source": 81, 
-            "target": 208, 
+            "source": "FBgn0001077", 
+            "target": "FBgn0003944", 
             "weight": 0.03695986691619879
         }, 
         {
-            "source": 81, 
-            "target": 97, 
+            "source": "FBgn0001077", 
+            "target": "FBgn0015338", 
             "weight": 0.04949053857350801
         }, 
         {
-            "source": 81, 
-            "target": 92, 
+            "source": "FBgn0001077", 
+            "target": "FBgn0003430", 
             "weight": 0.09606986899563319
         }, 
         {
-            "source": 81, 
-            "target": 106, 
+            "source": "FBgn0001077", 
+            "target": "FBgn0259211", 
             "weight": 0.008442503639010189
         }, 
         {
-            "source": 81, 
-            "target": 191, 
+            "source": "FBgn0001077", 
+            "target": "FBgn0000251", 
             "weight": 0.06244541484716157
         }, 
         {
-            "source": 81, 
-            "target": 81, 
+            "source": "FBgn0001077", 
+            "target": "FBgn0001077", 
             "weight": 0.0
         }, 
         {
-            "source": 82, 
-            "target": 134, 
+            "source": "FBgn0261788", 
+            "target": "FBgn0086655", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 83, 
-            "target": 210, 
+            "source": "FBgn0085424", 
+            "target": "FBgn0003975", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 84, 
-            "target": 188, 
+            "source": "FBgn0000639", 
+            "target": "FBgn0003507", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 85, 
-            "target": 99, 
+            "source": "FBgn0002522", 
+            "target": "FBgn0036598", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 85, 
-            "target": 85, 
+            "source": "FBgn0002522", 
+            "target": "FBgn0002522", 
             "weight": 0.0
         }, 
         {
-            "source": 85, 
-            "target": 103, 
+            "source": "FBgn0002522", 
+            "target": "FBgn0024250", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 85, 
-            "target": 197, 
+            "source": "FBgn0002522", 
+            "target": "FBgn0266256", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 86, 
-            "target": 216, 
+            "source": "FBgn0265168", 
+            "target": "FBgn0010382", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 86, 
-            "target": 204, 
+            "source": "FBgn0265168", 
+            "target": "FBgn0000157", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 86, 
-            "target": 88, 
+            "source": "FBgn0265168", 
+            "target": "FBgn0004102", 
             "weight": 0.01790393013100437
         }, 
         {
-            "source": 86, 
-            "target": 173, 
+            "source": "FBgn0265168", 
+            "target": "FBgn0004197", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 86, 
-            "target": 92, 
+            "source": "FBgn0265168", 
+            "target": "FBgn0003430", 
             "weight": 0.004657933042212518
         }, 
         {
-            "source": 86, 
-            "target": 198, 
+            "source": "FBgn0265168", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 88, 
-            "target": 169, 
+            "source": "FBgn0004102", 
+            "target": "FBgn0019940", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 88, 
-            "target": 200, 
+            "source": "FBgn0004102", 
+            "target": "FBgn0004859", 
             "weight": 0.7170305676855895
         }, 
         {
-            "source": 88, 
-            "target": 88, 
+            "source": "FBgn0004102", 
+            "target": "FBgn0004102", 
             "weight": 0.0
         }, 
         {
-            "source": 88, 
-            "target": 229, 
+            "source": "FBgn0004102", 
+            "target": "FBgn0000166", 
             "weight": 0.5978165938864629
         }, 
         {
-            "source": 89, 
-            "target": 224, 
+            "source": "FBgn0004101", 
+            "target": "FBgn0051086", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 91, 
-            "target": 208, 
+            "source": "FBgn0267707", 
+            "target": "FBgn0003944", 
             "weight": 0.010189228529839885
         }, 
         {
-            "source": 92, 
-            "target": 204, 
+            "source": "FBgn0003430", 
+            "target": "FBgn0000157", 
             "weight": 0.0034934497816593887
         }, 
         {
-            "source": 92, 
-            "target": 193, 
+            "source": "FBgn0003430", 
+            "target": "FBgn0011706", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 92, 
-            "target": 102, 
+            "source": "FBgn0003430", 
+            "target": "FBgn0004862", 
             "weight": 0.004657933042212518
         }, 
         {
-            "source": 93, 
-            "target": 173, 
+            "source": "FBgn0267978", 
+            "target": "FBgn0004197", 
             "weight": 0.05327510917030568
         }, 
         {
-            "source": 94, 
-            "target": 141, 
+            "source": "FBgn0264270", 
+            "target": "FBgn0003028", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 96, 
-            "target": 194, 
+            "source": "FBgn0015919", 
+            "target": "FBgn0003117", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 96, 
-            "target": 211, 
+            "source": "FBgn0015919", 
+            "target": "FBgn0003118", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 97, 
-            "target": 130, 
+            "source": "FBgn0015338", 
+            "target": "FBgn0010294", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 97, 
-            "target": 201, 
+            "source": "FBgn0015338", 
+            "target": "FBgn0003460", 
             "weight": 0.01077147016011645
         }, 
         {
-            "source": 98, 
-            "target": 141, 
+            "source": "FBgn0003023", 
+            "target": "FBgn0003028", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 99, 
-            "target": 216, 
+            "source": "FBgn0036598", 
+            "target": "FBgn0010382", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 99, 
-            "target": 204, 
+            "source": "FBgn0036598", 
+            "target": "FBgn0000157", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 99, 
-            "target": 187, 
+            "source": "FBgn0036598", 
+            "target": "FBgn0004635", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 99, 
-            "target": 153, 
+            "source": "FBgn0036598", 
+            "target": "FBgn0003513", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 99, 
-            "target": 110, 
+            "source": "FBgn0036598", 
+            "target": "FBgn0004567", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 100, 
-            "target": 227, 
+            "source": "FBgn0000044", 
+            "target": "FBgn0011656", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 102, 
-            "target": 116, 
+            "source": "FBgn0004862", 
+            "target": "FBgn0004110", 
             "weight": 0.04279475982532751
         }, 
         {
-            "source": 102, 
-            "target": 138, 
+            "source": "FBgn0004862", 
+            "target": "FBgn0003888", 
             "weight": 0.0034934497816593887
         }, 
         {
-            "source": 102, 
-            "target": 102, 
+            "source": "FBgn0004862", 
+            "target": "FBgn0004862", 
             "weight": 0.0
         }, 
         {
-            "source": 102, 
-            "target": 114, 
+            "source": "FBgn0004862", 
+            "target": "FBgn0040076", 
             "weight": 0.0011644832605531294
         }, 
         {
-            "source": 103, 
-            "target": 204, 
+            "source": "FBgn0024250", 
+            "target": "FBgn0000157", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 103, 
-            "target": 123, 
+            "source": "FBgn0024250", 
+            "target": "FBgn0004053", 
             "weight": 0.0445414847161572
         }, 
         {
-            "source": 103, 
-            "target": 193, 
+            "source": "FBgn0024250", 
+            "target": "FBgn0011706", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 103, 
-            "target": 109, 
+            "source": "FBgn0024250", 
+            "target": "FBgn0001168", 
             "weight": 0.017467248908296946
         }, 
         {
-            "source": 103, 
-            "target": 225, 
+            "source": "FBgn0024250", 
+            "target": "FBgn0261648", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 103, 
-            "target": 114, 
+            "source": "FBgn0024250", 
+            "target": "FBgn0040076", 
             "weight": 0.017467248908296946
         }, 
         {
-            "source": 103, 
-            "target": 198, 
+            "source": "FBgn0024250", 
+            "target": "FBgn0000490", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 104, 
-            "target": 193, 
+            "source": "FBgn0028789", 
+            "target": "FBgn0011706", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 104, 
-            "target": 159, 
+            "source": "FBgn0028789", 
+            "target": "FBgn0262473", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 105, 
-            "target": 187, 
+            "source": "FBgn0005561", 
+            "target": "FBgn0004635", 
             "weight": 0.014847161572052403
         }, 
         {
-            "source": 105, 
-            "target": 174, 
+            "source": "FBgn0005561", 
+            "target": "FBgn0000097", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 105, 
-            "target": 211, 
+            "source": "FBgn0005561", 
+            "target": "FBgn0003118", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 106, 
-            "target": 208, 
+            "source": "FBgn0259211", 
+            "target": "FBgn0003944", 
             "weight": 0.008442503639010189
         }, 
         {
-            "source": 106, 
-            "target": 156, 
+            "source": "FBgn0259211", 
+            "target": "FBgn0000422", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 106, 
-            "target": 123, 
+            "source": "FBgn0259211", 
+            "target": "FBgn0004053", 
             "weight": 0.008151382823871907
         }, 
         {
-            "source": 106, 
-            "target": 178, 
+            "source": "FBgn0259211", 
+            "target": "FBgn0003720", 
             "weight": 0.029112081513828242
         }, 
         {
-            "source": 106, 
-            "target": 198, 
+            "source": "FBgn0259211", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 106, 
-            "target": 202, 
+            "source": "FBgn0259211", 
+            "target": "FBgn0005626", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 108, 
-            "target": 211, 
+            "source": "FBgn0015904", 
+            "target": "FBgn0003118", 
             "weight": 0.0043668122270742364
         }, 
         {
-            "source": 108, 
-            "target": 194, 
+            "source": "FBgn0015904", 
+            "target": "FBgn0003117", 
             "weight": 0.0043668122270742364
         }, 
         {
-            "source": 109, 
-            "target": 172, 
+            "source": "FBgn0001168", 
+            "target": "FBgn0000022", 
             "weight": 0.3825327510917031
         }, 
         {
-            "source": 109, 
-            "target": 222, 
+            "source": "FBgn0001168", 
+            "target": "FBgn0015371", 
             "weight": 0.00960698689956332
         }, 
         {
-            "source": 109, 
-            "target": 171, 
+            "source": "FBgn0001168", 
+            "target": "FBgn0001325", 
             "weight": 0.026200873362445413
         }, 
         {
-            "source": 109, 
-            "target": 195, 
+            "source": "FBgn0001168", 
+            "target": "FBgn0001320", 
             "weight": 0.05676855895196507
         }, 
         {
-            "source": 109, 
-            "target": 178, 
+            "source": "FBgn0001168", 
+            "target": "FBgn0003720", 
             "weight": 0.03056768558951965
         }, 
         {
-            "source": 109, 
-            "target": 117, 
+            "source": "FBgn0001168", 
+            "target": "FBgn0001180", 
             "weight": 0.008733624454148473
         }, 
         {
-            "source": 109, 
-            "target": 200, 
+            "source": "FBgn0001168", 
+            "target": "FBgn0004859", 
             "weight": 0.2864628820960699
         }, 
         {
-            "source": 109, 
-            "target": 229, 
+            "source": "FBgn0001168", 
+            "target": "FBgn0000166", 
             "weight": 0.023580786026200874
         }, 
         {
-            "source": 110, 
-            "target": 197, 
+            "source": "FBgn0004567", 
+            "target": "FBgn0266256", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 111, 
-            "target": 208, 
+            "source": "FBgn0020312", 
+            "target": "FBgn0003944", 
             "weight": 0.010189228529839885
         }, 
         {
-            "source": 112, 
-            "target": 155, 
+            "source": "FBgn0004463", 
+            "target": "FBgn0001233", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 112, 
-            "target": 151, 
+            "source": "FBgn0004463", 
+            "target": "FBgn0013276", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 114, 
-            "target": 116, 
+            "source": "FBgn0040076", 
+            "target": "FBgn0004110", 
             "weight": 0.008151382823871907
         }, 
         {
-            "source": 114, 
-            "target": 225, 
+            "source": "FBgn0040076", 
+            "target": "FBgn0261648", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 114, 
-            "target": 227, 
+            "source": "FBgn0040076", 
+            "target": "FBgn0011656", 
             "weight": 0.005531295487627365
         }, 
         {
-            "source": 116, 
-            "target": 215, 
+            "source": "FBgn0004110", 
+            "target": "FBgn0001319", 
             "weight": 0.010189228529839885
         }, 
         {
-            "source": 116, 
-            "target": 204, 
+            "source": "FBgn0004110", 
+            "target": "FBgn0000157", 
             "weight": 0.008431413322243016
         }, 
         {
-            "source": 116, 
-            "target": 116, 
+            "source": "FBgn0004110", 
+            "target": "FBgn0004110", 
             "weight": 0.0
         }, 
         {
-            "source": 116, 
-            "target": 138, 
+            "source": "FBgn0004110", 
+            "target": "FBgn0003888", 
             "weight": 0.00822416302765648
         }, 
         {
-            "source": 116, 
-            "target": 159, 
+            "source": "FBgn0004110", 
+            "target": "FBgn0262473", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 116, 
-            "target": 226, 
+            "source": "FBgn0004110", 
+            "target": "FBgn0261963", 
             "weight": 0.09170305676855894
         }, 
         {
-            "source": 116, 
-            "target": 227, 
+            "source": "FBgn0004110", 
+            "target": "FBgn0011656", 
             "weight": 0.2550218340611354
         }, 
         {
-            "source": 117, 
-            "target": 117, 
+            "source": "FBgn0001180", 
+            "target": "FBgn0001180", 
             "weight": 0.0
         }, 
         {
-            "source": 117, 
-            "target": 207, 
+            "source": "FBgn0001180", 
+            "target": "FBgn0000014", 
             "weight": 0.027917162895328834
         }, 
         {
-            "source": 117, 
-            "target": 208, 
+            "source": "FBgn0001180", 
+            "target": "FBgn0003944", 
             "weight": 0.011439724758502051
         }, 
         {
-            "source": 117, 
-            "target": 171, 
+            "source": "FBgn0001180", 
+            "target": "FBgn0001325", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 117, 
-            "target": 225, 
+            "source": "FBgn0001180", 
+            "target": "FBgn0261648", 
             "weight": 0.001339155749636099
         }, 
         {
-            "source": 117, 
-            "target": 195, 
+            "source": "FBgn0001180", 
+            "target": "FBgn0001320", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 117, 
-            "target": 178, 
+            "source": "FBgn0001180", 
+            "target": "FBgn0003720", 
             "weight": 0.019970887918486176
         }, 
         {
-            "source": 117, 
-            "target": 229, 
+            "source": "FBgn0001180", 
+            "target": "FBgn0000166", 
             "weight": 0.06594945084028052
         }, 
         {
-            "source": 118, 
-            "target": 125, 
+            "source": "FBgn0004666", 
+            "target": "FBgn0003448", 
             "weight": 0.0013100436681222707
         }, 
         {
-            "source": 121, 
-            "target": 185, 
+            "source": "FBgn0001225", 
+            "target": "FBgn0013263", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 122, 
-            "target": 198, 
+            "source": "FBgn0004050", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 122, 
-            "target": 208, 
+            "source": "FBgn0004050", 
+            "target": "FBgn0003944", 
             "weight": 0.010480349344978166
         }, 
         {
-            "source": 123, 
-            "target": 208, 
+            "source": "FBgn0004053", 
+            "target": "FBgn0003944", 
             "weight": 0.03268316351285784
         }, 
         {
-            "source": 123, 
-            "target": 234, 
+            "source": "FBgn0004053", 
+            "target": "FBgn0259113", 
             "weight": 0.00611353711790393
         }, 
         {
-            "source": 123, 
-            "target": 239, 
+            "source": "FBgn0004053", 
+            "target": "FBgn0004863", 
             "weight": 0.005240174672489083
         }, 
         {
-            "source": 123, 
-            "target": 148, 
+            "source": "FBgn0004053", 
+            "target": "FBgn0260632", 
             "weight": 0.031950509461426496
         }, 
         {
-            "source": 124, 
-            "target": 161, 
+            "source": "FBgn0001226", 
+            "target": "FBgn0000546", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 125, 
-            "target": 187, 
+            "source": "FBgn0003448", 
+            "target": "FBgn0004635", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 125, 
-            "target": 148, 
+            "source": "FBgn0003448", 
+            "target": "FBgn0260632", 
             "weight": 0.00480349344978166
         }, 
         {
-            "source": 126, 
-            "target": 172, 
+            "source": "FBgn0003326", 
+            "target": "FBgn0000022", 
             "weight": 0.0537117903930131
         }, 
         {
-            "source": 127, 
-            "target": 172, 
+            "source": "FBgn0002631", 
+            "target": "FBgn0000022", 
             "weight": 0.01222707423580786
         }, 
         {
-            "source": 130, 
-            "target": 238, 
+            "source": "FBgn0010294", 
+            "target": "FBgn0028507", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 130, 
-            "target": 161, 
+            "source": "FBgn0010294", 
+            "target": "FBgn0000546", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 132, 
-            "target": 208, 
+            "source": "FBgn0033602", 
+            "target": "FBgn0003944", 
             "weight": 0.050655021834061134
         }, 
         {
-            "source": 133, 
-            "target": 201, 
+            "source": "FBgn0036440", 
+            "target": "FBgn0003460", 
             "weight": 0.011353711790393014
         }, 
         {
-            "source": 135, 
-            "target": 135, 
+            "source": "FBgn0000137", 
+            "target": "FBgn0000137", 
             "weight": 0.0
         }, 
         {
-            "source": 136, 
-            "target": 185, 
+            "source": "FBgn0003884", 
+            "target": "FBgn0013263", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 137, 
-            "target": 141, 
+            "source": "FBgn0004882", 
+            "target": "FBgn0003028", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 138, 
-            "target": 208, 
+            "source": "FBgn0003888", 
+            "target": "FBgn0003944", 
             "weight": 0.03784570596797671
         }, 
         {
-            "source": 138, 
-            "target": 227, 
+            "source": "FBgn0003888", 
+            "target": "FBgn0011656", 
             "weight": 0.001965065502183406
         }, 
         {
-            "source": 139, 
-            "target": 208, 
+            "source": "FBgn0085489", 
+            "target": "FBgn0003944", 
             "weight": 0.010189228529839885
         }, 
         {
-            "source": 140, 
-            "target": 208, 
+            "source": "FBgn0266632", 
+            "target": "FBgn0003944", 
             "weight": 0.011353711790393014
         }, 
         {
-            "source": 141, 
-            "target": 141, 
+            "source": "FBgn0003028", 
+            "target": "FBgn0003028", 
             "weight": 0.0
         }, 
         {
-            "source": 142, 
-            "target": 208, 
+            "source": "FBgn0003731", 
+            "target": "FBgn0003944", 
             "weight": 0.050655021834061134
         }, 
         {
-            "source": 144, 
-            "target": 188, 
+            "source": "FBgn0283437", 
+            "target": "FBgn0003507", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 146, 
-            "target": 188, 
+            "source": "FBgn0003963", 
+            "target": "FBgn0003507", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 147, 
-            "target": 201, 
+            "source": "FBgn0054003", 
+            "target": "FBgn0003460", 
             "weight": 0.011353711790393014
         }, 
         {
-            "source": 148, 
-            "target": 187, 
+            "source": "FBgn0260632", 
+            "target": "FBgn0004635", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 148, 
-            "target": 198, 
+            "source": "FBgn0260632", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 148, 
-            "target": 148, 
+            "source": "FBgn0260632", 
+            "target": "FBgn0260632", 
             "weight": 0.0
         }, 
         {
-            "source": 149, 
-            "target": 243, 
+            "source": "FBgn0001291", 
+            "target": "FBgn0010909", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 149, 
-            "target": 156, 
+            "source": "FBgn0001291", 
+            "target": "FBgn0000422", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 151, 
-            "target": 185, 
+            "source": "FBgn0013276", 
+            "target": "FBgn0013263", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 153, 
-            "target": 204, 
+            "source": "FBgn0003513", 
+            "target": "FBgn0000157", 
             "weight": 0.030509461426492007
         }, 
         {
-            "source": 153, 
-            "target": 168, 
+            "source": "FBgn0003513", 
+            "target": "FBgn0004198", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 153, 
-            "target": 197, 
+            "source": "FBgn0003513", 
+            "target": "FBgn0266256", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 154, 
-            "target": 198, 
+            "source": "FBgn0035948", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 156, 
-            "target": 162, 
+            "source": "FBgn0000422", 
+            "target": "FBgn0086039", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 160, 
-            "target": 201, 
+            "source": "FBgn0011771", 
+            "target": "FBgn0003460", 
             "weight": 0.011353711790393014
         }, 
         {
-            "source": 161, 
-            "target": 242, 
+            "source": "FBgn0000546", 
+            "target": "FBgn0000568", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 162, 
-            "target": 198, 
+            "source": "FBgn0086039", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 164, 
-            "target": 211, 
+            "source": "FBgn0004595", 
+            "target": "FBgn0003118", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 164, 
-            "target": 174, 
+            "source": "FBgn0004595", 
+            "target": "FBgn0000097", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 168, 
-            "target": 206, 
+            "source": "FBgn0004198", 
+            "target": "FBgn0000015", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 168, 
-            "target": 224, 
+            "source": "FBgn0004198", 
+            "target": "FBgn0051086", 
             "weight": 0.0017467248908296944
         }, 
         {
-            "source": 170, 
-            "target": 227, 
+            "source": "FBgn0016797", 
+            "target": "FBgn0011656", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 171, 
-            "target": 217, 
+            "source": "FBgn0001325", 
+            "target": "FBgn0001150", 
             "weight": 0.014410480349344978
         }, 
         {
-            "source": 171, 
-            "target": 185, 
+            "source": "FBgn0001325", 
+            "target": "FBgn0013263", 
             "weight": 0.0331877729257642
         }, 
         {
-            "source": 171, 
-            "target": 207, 
+            "source": "FBgn0001325", 
+            "target": "FBgn0000014", 
             "weight": 0.04369591107582374
         }, 
         {
-            "source": 171, 
-            "target": 208, 
+            "source": "FBgn0001325", 
+            "target": "FBgn0003944", 
             "weight": 0.019794892152970756
         }, 
         {
-            "source": 171, 
-            "target": 235, 
+            "source": "FBgn0001325", 
+            "target": "FBgn0000659", 
             "weight": 0.050655021834061134
         }, 
         {
-            "source": 171, 
-            "target": 225, 
+            "source": "FBgn0001325", 
+            "target": "FBgn0261648", 
             "weight": 0.004395924308588064
         }, 
         {
-            "source": 171, 
-            "target": 195, 
+            "source": "FBgn0001325", 
+            "target": "FBgn0001320", 
             "weight": 0.0021834061135371182
         }, 
         {
-            "source": 171, 
-            "target": 178, 
+            "source": "FBgn0001325", 
+            "target": "FBgn0003720", 
             "weight": 0.01953420669577875
         }, 
         {
-            "source": 171, 
-            "target": 229, 
+            "source": "FBgn0001325", 
+            "target": "FBgn0000166", 
             "weight": 0.06594945084028052
         }, 
         {
-            "source": 172, 
-            "target": 182, 
+            "source": "FBgn0000022", 
+            "target": "FBgn0000411", 
             "weight": 0.007205240174672489
         }, 
         {
-            "source": 175, 
-            "target": 188, 
+            "source": "FBgn0243514", 
+            "target": "FBgn0003507", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 176, 
-            "target": 176, 
+            "source": "FBgn0001108", 
+            "target": "FBgn0001108", 
             "weight": 0.0
         }, 
         {
-            "source": 176, 
-            "target": 180, 
+            "source": "FBgn0001108", 
+            "target": "FBgn0002940", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 177, 
-            "target": 208, 
+            "source": "FBgn0043364", 
+            "target": "FBgn0003944", 
             "weight": 0.010189228529839885
         }, 
         {
-            "source": 178, 
-            "target": 185, 
+            "source": "FBgn0003720", 
+            "target": "FBgn0013263", 
             "weight": 0.0074235807860262015
         }, 
         {
-            "source": 178, 
-            "target": 208, 
+            "source": "FBgn0003720", 
+            "target": "FBgn0003944", 
             "weight": 0.01690031947673869
         }, 
         {
-            "source": 178, 
-            "target": 196, 
+            "source": "FBgn0003720", 
+            "target": "FBgn0003870", 
             "weight": 0.015475150758993554
         }, 
         {
-            "source": 178, 
-            "target": 195, 
+            "source": "FBgn0003720", 
+            "target": "FBgn0001320", 
             "weight": 0.012081513828238718
         }, 
         {
-            "source": 178, 
-            "target": 229, 
+            "source": "FBgn0003720", 
+            "target": "FBgn0000166", 
             "weight": 0.04806272330289797
         }, 
         {
-            "source": 183, 
-            "target": 206, 
+            "source": "FBgn0004034", 
+            "target": "FBgn0000015", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 184, 
-            "target": 208, 
+            "source": "FBgn0261434", 
+            "target": "FBgn0003944", 
             "weight": 0.009315866084425037
         }, 
         {
-            "source": 184, 
-            "target": 225, 
+            "source": "FBgn0261434", 
+            "target": "FBgn0261648", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 185, 
-            "target": 185, 
+            "source": "FBgn0013263", 
+            "target": "FBgn0013263", 
             "weight": 0.0
         }, 
         {
-            "source": 185, 
-            "target": 208, 
+            "source": "FBgn0013263", 
+            "target": "FBgn0003944", 
             "weight": 0.010043668122270743
         }, 
         {
-            "source": 185, 
-            "target": 198, 
+            "source": "FBgn0013263", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 186, 
-            "target": 227, 
+            "source": "FBgn0011278", 
+            "target": "FBgn0011656", 
             "weight": 0.09082969432314411
         }, 
         {
-            "source": 186, 
-            "target": 211, 
+            "source": "FBgn0011278", 
+            "target": "FBgn0003118", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 186, 
-            "target": 186, 
+            "source": "FBgn0011278", 
+            "target": "FBgn0011278", 
             "weight": 0.0
         }, 
         {
-            "source": 187, 
-            "target": 207, 
+            "source": "FBgn0004635", 
+            "target": "FBgn0000014", 
             "weight": 0.04279475982532751
         }, 
         {
-            "source": 187, 
-            "target": 197, 
+            "source": "FBgn0004635", 
+            "target": "FBgn0266256", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 188, 
-            "target": 209, 
+            "source": "FBgn0003507", 
+            "target": "FBgn0004045", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 189, 
-            "target": 227, 
+            "source": "FBgn0086906", 
+            "target": "FBgn0011656", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 190, 
-            "target": 190, 
+            "source": "FBgn0010433", 
+            "target": "FBgn0010433", 
             "weight": 0.0
         }, 
         {
-            "source": 190, 
-            "target": 201, 
+            "source": "FBgn0010433", 
+            "target": "FBgn0003460", 
             "weight": 0.00960698689956332
         }, 
         {
-            "source": 190, 
-            "target": 211, 
+            "source": "FBgn0010433", 
+            "target": "FBgn0003118", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 191, 
-            "target": 203, 
+            "source": "FBgn0000251", 
+            "target": "FBgn0262139", 
             "weight": 0.05240174672489083
         }, 
         {
-            "source": 191, 
-            "target": 195, 
+            "source": "FBgn0000251", 
+            "target": "FBgn0001320", 
             "weight": 0.08951965065502183
         }, 
         {
-            "source": 191, 
-            "target": 225, 
+            "source": "FBgn0000251", 
+            "target": "FBgn0261648", 
             "weight": 0.0026200873362445414
         }, 
         {
-            "source": 193, 
-            "target": 228, 
+            "source": "FBgn0011706", 
+            "target": "FBgn0039443", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 193, 
-            "target": 218, 
+            "source": "FBgn0011706", 
+            "target": "FBgn0015903", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 193, 
-            "target": 199, 
+            "source": "FBgn0011706", 
+            "target": "FBgn0014179", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 195, 
-            "target": 208, 
+            "source": "FBgn0001320", 
+            "target": "FBgn0003944", 
             "weight": 0.04544263596665343
         }, 
         {
-            "source": 195, 
-            "target": 224, 
+            "source": "FBgn0001320", 
+            "target": "FBgn0051086", 
             "weight": 0.04978165938864629
         }, 
         {
-            "source": 195, 
-            "target": 217, 
+            "source": "FBgn0001320", 
+            "target": "FBgn0001150", 
             "weight": 0.006550218340611353
         }, 
         {
-            "source": 195, 
-            "target": 229, 
+            "source": "FBgn0001320", 
+            "target": "FBgn0000166", 
             "weight": 0.0393290988487495
         }, 
         {
-            "source": 196, 
-            "target": 201, 
+            "source": "FBgn0003870", 
+            "target": "FBgn0003460", 
             "weight": 0.009731752963194012
         }, 
         {
-            "source": 197, 
-            "target": 216, 
+            "source": "FBgn0266256", 
+            "target": "FBgn0010382", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 197, 
-            "target": 204, 
+            "source": "FBgn0266256", 
+            "target": "FBgn0000157", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 197, 
-            "target": 198, 
+            "source": "FBgn0266256", 
+            "target": "FBgn0000490", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 198, 
-            "target": 207, 
+            "source": "FBgn0000490", 
+            "target": "FBgn0000014", 
             "weight": 0.006743794778729276
         }, 
         {
-            "source": 198, 
-            "target": 208, 
+            "source": "FBgn0000490", 
+            "target": "FBgn0003944", 
             "weight": 0.02044046201251441
         }, 
         {
-            "source": 198, 
-            "target": 240, 
+            "source": "FBgn0000490", 
+            "target": "FBgn0019650", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 198, 
-            "target": 200, 
+            "source": "FBgn0000490", 
+            "target": "FBgn0004859", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 201, 
-            "target": 213, 
+            "source": "FBgn0003460", 
+            "target": "FBgn0038058", 
             "weight": 0.009825327510917031
         }, 
         {
-            "source": 201, 
-            "target": 201, 
+            "source": "FBgn0003460", 
+            "target": "FBgn0003460", 
             "weight": 0.0
         }, 
         {
-            "source": 201, 
-            "target": 232, 
+            "source": "FBgn0003460", 
+            "target": "FBgn0010323", 
             "weight": 0.011353711790393014
         }, 
         {
-            "source": 201, 
-            "target": 240, 
+            "source": "FBgn0003460", 
+            "target": "FBgn0019650", 
             "weight": 0.010480349344978166
         }, 
         {
-            "source": 204, 
-            "target": 207, 
+            "source": "FBgn0000157", 
+            "target": "FBgn0000014", 
             "weight": 0.00943578013447009
         }, 
         {
-            "source": 204, 
-            "target": 208, 
+            "source": "FBgn0000157", 
+            "target": "FBgn0003944", 
             "weight": 0.03187842240243987
         }, 
         {
-            "source": 205, 
-            "target": 236, 
+            "source": "FBgn0053192", 
+            "target": "FBgn0035035", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 207, 
-            "target": 216, 
+            "source": "FBgn0000014", 
+            "target": "FBgn0010382", 
             "weight": 0.0462882096069869
         }, 
         {
-            "source": 207, 
-            "target": 217, 
+            "source": "FBgn0000014", 
+            "target": "FBgn0001150", 
             "weight": 0.008733624454148473
         }, 
         {
-            "source": 208, 
-            "target": 208, 
+            "source": "FBgn0003944", 
+            "target": "FBgn0003944", 
             "weight": 0.0
         }, 
         {
-            "source": 208, 
-            "target": 215, 
+            "source": "FBgn0003944", 
+            "target": "FBgn0001319", 
             "weight": 0.04046579330422125
         }, 
         {
-            "source": 208, 
-            "target": 220, 
+            "source": "FBgn0003944", 
+            "target": "FBgn0004629", 
             "weight": 0.011353711790393014
         }, 
         {
-            "source": 208, 
-            "target": 225, 
+            "source": "FBgn0003944", 
+            "target": "FBgn0261648", 
             "weight": 0.034876273653566235
         }, 
         {
-            "source": 209, 
-            "target": 212, 
+            "source": "FBgn0004045", 
+            "target": "FBgn0005638", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 210, 
-            "target": 224, 
+            "source": "FBgn0003975", 
+            "target": "FBgn0051086", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 212, 
-            "target": 212, 
+            "source": "FBgn0005638", 
+            "target": "FBgn0005638", 
             "weight": 0.0
         }, 
         {
-            "source": 214, 
-            "target": 215, 
+            "source": "FBgn0002922", 
+            "target": "FBgn0001319", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 215, 
-            "target": 215, 
+            "source": "FBgn0001319", 
+            "target": "FBgn0001319", 
             "weight": 0.0
         }, 
         {
-            "source": 222, 
-            "target": 233, 
+            "source": "FBgn0015371", 
+            "target": "FBgn0000575", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 223, 
-            "target": 227, 
+            "source": "FBgn0031975", 
+            "target": "FBgn0011656", 
             "weight": 0.04716157205240175
         }, 
         {
-            "source": 224, 
-            "target": 225, 
+            "source": "FBgn0051086", 
+            "target": "FBgn0261648", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 225, 
-            "target": 229, 
+            "source": "FBgn0261648", 
+            "target": "FBgn0000166", 
             "weight": 0.003056768558951965
         }, 
         {
-            "source": 227, 
-            "target": 227, 
+            "source": "FBgn0011656", 
+            "target": "FBgn0011656", 
             "weight": 0.0
         }, 
         {
-            "source": 230, 
-            "target": 244, 
+            "source": "FBgn0023076", 
+            "target": "FBgn0026394", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 231, 
-            "target": 235, 
+            "source": "FBgn0051014", 
+            "target": "FBgn0000659", 
             "weight": 0.0008733624454148472
         }, 
         {
-            "source": 235, 
-            "target": 235, 
+            "source": "FBgn0000659", 
+            "target": "FBgn0000659", 
             "weight": 0.0
         }
     ], 
